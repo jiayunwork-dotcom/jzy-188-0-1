@@ -1,0 +1,11 @@
+# Build artifacts
+*.db
+*.db-journal
+/data/
+/tmp/
+# Local env
+.env
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
